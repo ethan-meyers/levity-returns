@@ -1,0 +1,4 @@
+__pycache__
+redshift_credentials.py
+sheets.googleapis.com-python.json
+credentials.json
